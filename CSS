@@ -1,0 +1,7 @@
+#CSS Temel Kodlar
+#body için temel kodlar;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
